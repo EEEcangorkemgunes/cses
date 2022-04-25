@@ -5,4 +5,4 @@ In this project, I am going to try to solve most of problems on [CSES](https://c
 
 I also have a [Youtube Channel](https://www.youtube.com/channel/UCOfOG3h6vXxE_zPKXdnK1lA) where I write and explain codes. Unfortunately only Turkish is available for now.
 
-:tr:
+You can contact me via my mail address
